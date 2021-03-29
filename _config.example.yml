@@ -4,10 +4,7 @@ description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://example.com" # the base hostname & protocol for your site, e.g. https://example.com
 
-remote-theme: "DigitaleGesellschaft/jekyll-theme-conference@2.0.0"
-
-plugins:
-  - jekyll-include-cache
+theme: jekyll-theme-conference
 
 # Build settings
 markdown: kramdown
